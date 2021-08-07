@@ -35,7 +35,7 @@ public void MoveHighlight(int yTarget, int yCurrent)
                 }
             }
 ```
-How to use it just call the function by ```MoveHighlight([target].Top, highlighter.Top)```
+How to use it just call the function by ```MoveHighlight([target].Top, highlighter.Top);```
 
 also fading opening animation using timer, code :
 ```
